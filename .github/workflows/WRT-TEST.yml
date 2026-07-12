@@ -29,7 +29,7 @@ on:
         required: false
         type: string
       PROFILE:
-        description: '固件版本：PURE=纯净版，PLUS=Plus 版。'
+        description: '固件版本：PURE=纯净版'
         default: 'PURE'
         required: true
         type: choice
